@@ -20,3 +20,7 @@
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611xiwajqwjhfs1w2uv35sgueafr4f0i2kslwx5dh0m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
