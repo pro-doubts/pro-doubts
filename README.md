@@ -22,5 +22,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e47hjjdm8h3nu0y2cnyqa1goqmrynjnn9uio2hble23&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e47hjjdm8h3nu0y2cnyqa1goqmrynjnn9uio2hble23&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="600" height="300"/>
 </div>
