@@ -50,7 +50,8 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/8eab2556455dae4c247fffb8ef6a41da3f70802cd649dd0b5bf220d1facf5f5e/68747470733a2f2f7374617469632e666173742e64657369676e2f6173736574732f666173745f62616e6e65725f6769746875625f3931342e706e67" title="Fast" alt="Fast" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/uiAZ9NJtgLYPvCN79" title="Lit" alt="Lit" width="40" height="40"/>&nbsp;
+  <img src="https://images.app.goo.gl/sKrZ8moXLzesQHYZ6" title="Fast" alt="Fast" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
