@@ -29,3 +29,10 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web and desktop applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on various plateforms like leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/umashankar-verma-268254233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
