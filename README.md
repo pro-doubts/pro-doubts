@@ -22,7 +22,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e47hjjdm8h3nu0y2cnyqa1goqmrynjnn9uio2hble23&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="500" height="250"/>
+  <img src="https://giphy.com/clips/IntoAction-earth-day-mother-month-DICfp4cY1CQ6w8NY32" width="500" height="250"/>
 </div>
 
 ---
